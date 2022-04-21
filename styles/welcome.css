@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+#root {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: lightgray;
+}
+
+.welcome {
+    color: navy;
+    font-size: xxx-large;
+    text-align: center;
+    font-family: sans-serif;
+}
